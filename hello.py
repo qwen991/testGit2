@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello Cruel World")
 
 def counter():
     count = 0
@@ -6,4 +6,5 @@ def counter():
         count += 1
 
     return count
+
 
