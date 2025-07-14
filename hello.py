@@ -7,3 +7,5 @@ def counter():
 
     return count
 
+def print_message_2():
+    print("message_2")
